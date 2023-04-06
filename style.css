@@ -41,7 +41,7 @@ nav > ul > a{
     margin-left: 50px;
     font: var(--main-font);
     overflow: none;
-    padding: 10px;
+    padding: 9px;
 }
 
 nav > ul > a:hover{
